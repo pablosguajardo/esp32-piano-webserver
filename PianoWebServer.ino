@@ -5,7 +5,7 @@
 #include <ESPAsyncWebServer.h>
 
 const char* ssid = "Wifi DP";
-const char* password = "lorenrufi";
+const char* password = "12345678";
 
 AsyncWebServer server(80);
 AsyncEventSource events("/events");
