@@ -21,6 +21,12 @@ The system can be accessed from any browser (optimized for mobile landscape mode
 
 ---
 
+## Video:
+[![VIDEO](https://i.ytimg.com/vi/xZYhNmaQeU4/oar2.jpg?sqp=-oaymwEoCM0CENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLB4v5hl-_8hDx0z2SLVvH8nyRaCmg&usqp=CCk)](https://www.youtube.com/shorts/xZYhNmaQeU4)
+
+
+---
+
 ## 🧠 System Architecture
 
 ### 1️⃣ Web Layer (Embedded Frontend)
